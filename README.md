@@ -13,7 +13,7 @@
 
 ## Improving This Project
 
-If you feel like I am missing out steps, feel free to make a pull request and contribute to this project. [Github Repo](https://github.com/vishal-mourya/quizz-app-flutter)
+If you feel like I am missing out steps, feel free to make a pull request and contribute to this project. [Github Repo](https://github.com/vishal-mourya/xylophone-app)
 
 Would Love to Collaborate with anyone who wishes :)
 
