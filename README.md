@@ -1,27 +1,21 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
+# Xylophone App Made With Flutter
 
+### About :
 
-# Xylophone 🎹
+- A Simple Xylophone App which plays nicely tuned sounds, when clicked in different coloured sections
 
-## Our Goal
+- One can learn how to handle media files like sound files when any event is occured in flutter App
+<br> <br>
 
-In this tutorial we will be diving into more Dart programming concepts and learning how to use open source Flutter packages. By the end of this module, you should be comfortable using Flutter packages and building repeated widgets.
+![s1](https://github.com/vishal-mourya/xylophone-app/blob/main/s1.jpeg?raw=true) <br> <br>
 
+- Still Working on Improvements
 
-## What you will create
+## Improving This Project
 
-We’re going to make a music app that plays Xylophone sounds. For every Beethoven out there, this will let you unleash your musical talent where ever you are. 
+If you feel like I am missing out steps, feel free to make a pull request and contribute to this project. [Github Repo](https://github.com/vishal-mourya/quizz-app-flutter)
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
+Would Love to Collaborate with anyone who wishes :)
 
-## What you will learn
-
-- How to incorporate open source libraries of code into your project using Flutter Packages.
-- How to play sound on both iOS and Android.
-- How to generate repeated user interface Widgets.
-- How to use Dart functions that can take input arguments as well as return an output.
-- Dart arrow syntax for writing one line functions.
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+Thanks & Regards <br>
+[Vishal Mourya](https://www.linkedin.com/in/vishal-mourya-a4245b18b/)
